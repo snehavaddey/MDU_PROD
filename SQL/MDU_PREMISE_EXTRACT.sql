@@ -15,6 +15,7 @@ Date       Person              Version    Description
 15/01/14   Ram Prasad          1.7       QC:16916 - MDU extract missing the billing system house key
 31/01/14   Manoj          	   SVN       QC:16862/16916 - MDU extract missing the billing system house key
 30/06/16   Kavitha Mary        SVN       QC:22176 - Modified to include cstm_fld_1_txt
+05/16/2016 Sneha changed
 ---------------------------------------------------------------------------------------------------------------------*/
 
 SELECT NOW()||' Update EXTRACT_LOAD_CONTROL Table to set LD_PRCS_FLG, EDW_DATA_DT' AS LOG_DETAIL;
